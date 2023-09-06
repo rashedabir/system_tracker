@@ -1,0 +1,41 @@
+{
+  "name": "my-app",
+  "productName": "my-app",
+  "version": "1.0.0",
+  "description": "My Electron application description",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "electron-forge start",
+    "dev": "nodemon --exec electron-forge start",
+    "package": "electron-forge package",
+    "make": "electron-forge make",
+    "publish": "electron-forge publish",
+    "lint": "echo \"No linting configured\""
+  },
+  "keywords": [],
+  "author": {
+    "name": "Rashed Abir",
+    "email": "rashed15-2155@diu.edu.bd"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "app-icon": "^0.13.2",
+    "electron-squirrel-startup": "^1.0.0",
+    "electron-window-state": "^5.0.3",
+    "nodemon": "^2.0.20",
+    "os": "^0.1.2",
+    "perf_hooks": "^0.0.1",
+    "ps-list": "^8.1.1",
+    "puppeteer": "^21.1.1",
+    "ws": "^8.14.0"
+  },
+  "devDependencies": {
+    "@electron-forge/cli": "^6.0.4",
+    "@electron-forge/maker-deb": "^6.0.4",
+    "@electron-forge/maker-rpm": "^6.0.4",
+    "@electron-forge/maker-squirrel": "^6.0.4",
+    "@electron-forge/maker-zip": "^6.0.4",
+    "electron": "22.2.0",
+    "esm": "^3.2.25"
+  }
+}

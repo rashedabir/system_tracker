@@ -1,0 +1,2402 @@
+{
+  "launchd": {
+    "count": 229,
+    "startTime": "2023-09-06T18:49:58.014Z",
+    "endTime": null
+  },
+  "logd": {
+    "count": 229,
+    "startTime": "2023-09-06T18:49:58.014Z",
+    "endTime": null
+  },
+  "smd": {
+    "count": 229,
+    "startTime": "2023-09-06T18:49:58.014Z",
+    "endTime": null
+  },
+  "UserEventAgent": {
+    "count": 458,
+    "startTime": "2023-09-06T18:49:58.014Z",
+    "endTime": null
+  },
+  "uninstalld": {
+    "count": 229,
+    "startTime": "2023-09-06T18:49:58.014Z",
+    "endTime": null
+  },
+  "fseventsd": {
+    "count": 229,
+    "startTime": "2023-09-06T18:49:58.014Z",
+    "endTime": null
+  },
+  "mediaremoted": {
+    "count": 229,
+    "startTime": "2023-09-06T18:49:58.014Z",
+    "endTime": null
+  },
+  "configd": {
+    "count": 229,
+    "startTime": "2023-09-06T18:49:58.014Z",
+    "endTime": null
+  },
+  "endpointsecurityd": {
+    "count": 229,
+    "startTime": "2023-09-06T18:49:58.014Z",
+    "endTime": null
+  },
+  "powerd": {
+    "count": 229,
+    "startTime": "2023-09-06T18:49:58.014Z",
+    "endTime": null
+  },
+  "biomed": {
+    "count": 229,
+    "startTime": "2023-09-06T18:49:58.014Z",
+    "endTime": null
+  },
+  "amfid": {
+    "count": 229,
+    "startTime": "2023-09-06T18:49:58.014Z",
+    "endTime": null
+  },
+  "remoted": {
+    "count": 229,
+    "startTime": "2023-09-06T18:49:58.014Z",
+    "endTime": null
+  },
+  "keybagd": {
+    "count": 229,
+    "startTime": "2023-09-06T18:49:58.014Z",
+    "endTime": null
+  },
+  "softwareupdated": {
+    "count": 458,
+    "startTime": "2023-09-06T18:49:58.014Z",
+    "endTime": null
+  },
+  "watchdogd": {
+    "count": 229,
+    "startTime": "2023-09-06T18:49:58.014Z",
+    "endTime": null
+  },
+  "mds": {
+    "count": 229,
+    "startTime": "2023-09-06T18:49:58.014Z",
+    "endTime": null
+  },
+  "iconservicesd": {
+    "count": 229,
+    "startTime": "2023-09-06T18:49:58.014Z",
+    "endTime": null
+  },
+  "kernelmanagerd": {
+    "count": 229,
+    "startTime": "2023-09-06T18:49:58.014Z",
+    "endTime": null
+  },
+  "diskarbitrationd": {
+    "count": 229,
+    "startTime": "2023-09-06T18:49:58.014Z",
+    "endTime": null
+  },
+  "coreduetd": {
+    "count": 229,
+    "startTime": "2023-09-06T18:49:58.014Z",
+    "endTime": null
+  },
+  "syslogd": {
+    "count": 229,
+    "startTime": "2023-09-06T18:49:58.014Z",
+    "endTime": null
+  },
+  "thermalmonitord": {
+    "count": 229,
+    "startTime": "2023-09-06T18:49:58.014Z",
+    "endTime": null
+  },
+  "opendirectoryd": {
+    "count": 229,
+    "startTime": "2023-09-06T18:49:58.014Z",
+    "endTime": null
+  },
+  "apsd": {
+    "count": 229,
+    "startTime": "2023-09-06T18:49:58.014Z",
+    "endTime": null
+  },
+  "launchservicesd": {
+    "count": 229,
+    "startTime": "2023-09-06T18:49:58.014Z",
+    "endTime": null
+  },
+  "timed": {
+    "count": 229,
+    "startTime": "2023-09-06T18:49:58.014Z",
+    "endTime": null
+  },
+  "usbmuxd": {
+    "count": 229,
+    "startTime": "2023-09-06T18:49:58.014Z",
+    "endTime": null
+  },
+  "securityd": {
+    "count": 229,
+    "startTime": "2023-09-06T18:49:58.014Z",
+    "endTime": null
+  },
+  "auditd": {
+    "count": 229,
+    "startTime": "2023-09-06T18:49:58.014Z",
+    "endTime": null
+  },
+  "locationd": {
+    "count": 229,
+    "startTime": "2023-09-06T18:49:58.014Z",
+    "endTime": null
+  },
+  "autofsd": {
+    "count": 229,
+    "startTime": "2023-09-06T18:49:58.014Z",
+    "endTime": null
+  },
+  "displaypolicyd": {
+    "count": 229,
+    "startTime": "2023-09-06T18:49:58.014Z",
+    "endTime": null
+  },
+  "dasd": {
+    "count": 229,
+    "startTime": "2023-09-06T18:49:58.014Z",
+    "endTime": null
+  },
+  "distnoted": {
+    "count": 3664,
+    "startTime": "2023-09-06T18:49:58.014Z",
+    "endTime": null
+  },
+  "AppleCredentialManagerDaemon": {
+    "count": 229,
+    "startTime": "2023-09-06T18:49:58.014Z",
+    "endTime": null
+  },
+  "PerfPowerServices": {
+    "count": 229,
+    "startTime": "2023-09-06T18:49:58.014Z",
+    "endTime": null
+  },
+  "logind": {
+    "count": 229,
+    "startTime": "2023-09-06T18:49:58.014Z",
+    "endTime": null
+  },
+  "revisiond": {
+    "count": 229,
+    "startTime": "2023-09-06T18:49:58.014Z",
+    "endTime": null
+  },
+  "KernelEventAgent": {
+    "count": 229,
+    "startTime": "2023-09-06T18:49:58.014Z",
+    "endTime": null
+  },
+  "usermanagerd": {
+    "count": 229,
+    "startTime": "2023-09-06T18:49:58.014Z",
+    "endTime": null
+  },
+  "bluetoothd": {
+    "count": 229,
+    "startTime": "2023-09-06T18:49:58.014Z",
+    "endTime": null
+  },
+  "notifyd": {
+    "count": 229,
+    "startTime": "2023-09-06T18:49:58.014Z",
+    "endTime": null
+  },
+  "sandboxd": {
+    "count": 229,
+    "startTime": "2023-09-06T18:49:58.014Z",
+    "endTime": null
+  },
+  "corebrightnessd": {
+    "count": 229,
+    "startTime": "2023-09-06T18:49:58.014Z",
+    "endTime": null
+  },
+  "AirPlayXPCHelper": {
+    "count": 229,
+    "startTime": "2023-09-06T18:49:58.014Z",
+    "endTime": null
+  },
+  "com.apple.cmio.registerassistantservice": {
+    "count": 229,
+    "startTime": "2023-09-06T18:49:58.014Z",
+    "endTime": null
+  },
+  "syspolicyd": {
+    "count": 229,
+    "startTime": "2023-09-06T18:49:58.014Z",
+    "endTime": null
+  },
+  "WindowServer": {
+    "count": 229,
+    "startTime": "2023-09-06T18:49:58.014Z",
+    "endTime": null
+  },
+  "tccd": {
+    "count": 458,
+    "startTime": "2023-09-06T18:49:58.014Z",
+    "endTime": null
+  },
+  "aslmanager": {
+    "count": 229,
+    "startTime": "2023-09-06T18:49:58.014Z",
+    "endTime": null
+  },
+  "cfprefsd": {
+    "count": 687,
+    "startTime": "2023-09-06T18:49:58.014Z",
+    "endTime": null
+  },
+  "analyticsd": {
+    "count": 229,
+    "startTime": "2023-09-06T18:49:58.014Z",
+    "endTime": null
+  },
+  "loginwindow": {
+    "count": 229,
+    "startTime": "2023-09-06T18:49:58.014Z",
+    "endTime": null
+  },
+  "lsd": {
+    "count": 458,
+    "startTime": "2023-09-06T18:49:58.014Z",
+    "endTime": null
+  },
+  "runningboardd": {
+    "count": 229,
+    "startTime": "2023-09-06T18:49:58.014Z",
+    "endTime": null
+  },
+  "coreservicesd": {
+    "count": 229,
+    "startTime": "2023-09-06T18:49:58.014Z",
+    "endTime": null
+  },
+  "backgroundtaskmanagementd": {
+    "count": 229,
+    "startTime": "2023-09-06T18:49:58.014Z",
+    "endTime": null
+  },
+  "sysextd": {
+    "count": 229,
+    "startTime": "2023-09-06T18:49:58.014Z",
+    "endTime": null
+  },
+  "XProtectPluginService": {
+    "count": 458,
+    "startTime": "2023-09-06T18:49:58.014Z",
+    "endTime": null
+  },
+  "contextstored": {
+    "count": 229,
+    "startTime": "2023-09-06T18:49:58.014Z",
+    "endTime": null
+  },
+  "PowerUIAgent": {
+    "count": 229,
+    "startTime": "2023-09-06T18:49:58.014Z",
+    "endTime": null
+  },
+  "csnameddatad": {
+    "count": 458,
+    "startTime": "2023-09-06T18:49:58.014Z",
+    "endTime": null
+  },
+  "bosUpdateProxy": {
+    "count": 229,
+    "startTime": "2023-09-06T18:49:58.014Z",
+    "endTime": null
+  },
+  "corekdld": {
+    "count": 229,
+    "startTime": "2023-09-06T18:49:58.014Z",
+    "endTime": null
+  },
+  "nehelper": {
+    "count": 229,
+    "startTime": "2023-09-06T18:49:58.014Z",
+    "endTime": null
+  },
+  "symptomsd": {
+    "count": 229,
+    "startTime": "2023-09-06T18:49:58.014Z",
+    "endTime": null
+  },
+  "SubmitDiagInfo": {
+    "count": 229,
+    "startTime": "2023-09-06T18:49:58.014Z",
+    "endTime": null
+  },
+  "coreaudiod": {
+    "count": 229,
+    "startTime": "2023-09-06T18:49:58.014Z",
+    "endTime": null
+  },
+  "findmydeviced": {
+    "count": 229,
+    "startTime": "2023-09-06T18:49:58.014Z",
+    "endTime": null
+  },
+  "multiversed": {
+    "count": 229,
+    "startTime": "2023-09-06T18:49:58.014Z",
+    "endTime": null
+  },
+  "nsurlsessiond": {
+    "count": 458,
+    "startTime": "2023-09-06T18:49:58.014Z",
+    "endTime": null
+  },
+  "com.apple.ifdreader": {
+    "count": 229,
+    "startTime": "2023-09-06T18:49:58.014Z",
+    "endTime": null
+  },
+  "apfsd": {
+    "count": 229,
+    "startTime": "2023-09-06T18:49:58.014Z",
+    "endTime": null
+  },
+  "backupd": {
+    "count": 229,
+    "startTime": "2023-09-06T18:49:58.014Z",
+    "endTime": null
+  },
+  "airportd": {
+    "count": 229,
+    "startTime": "2023-09-06T18:49:58.014Z",
+    "endTime": null
+  },
+  "mobileassetd": {
+    "count": 229,
+    "startTime": "2023-09-06T18:49:58.014Z",
+    "endTime": null
+  },
+  "mDNSResponder": {
+    "count": 229,
+    "startTime": "2023-09-06T18:49:58.014Z",
+    "endTime": null
+  },
+  "usbd": {
+    "count": 229,
+    "startTime": "2023-09-06T18:49:58.014Z",
+    "endTime": null
+  },
+  "installerdiagwatcher": {
+    "count": 229,
+    "startTime": "2023-09-06T18:49:58.014Z",
+    "endTime": null
+  },
+  "VDCAssistant": {
+    "count": 229,
+    "startTime": "2023-09-06T18:49:58.014Z",
+    "endTime": null
+  },
+  "mDNSResponderHelper": {
+    "count": 229,
+    "startTime": "2023-09-06T18:49:58.014Z",
+    "endTime": null
+  },
+  "awdd": {
+    "count": 229,
+    "startTime": "2023-09-06T18:49:58.014Z",
+    "endTime": null
+  },
+  "containermanagerd": {
+    "count": 1374,
+    "startTime": "2023-09-06T18:49:58.014Z",
+    "endTime": null
+  },
+  "mds_stores": {
+    "count": 229,
+    "startTime": "2023-09-06T18:49:58.014Z",
+    "endTime": null
+  },
+  "com.apple.MobileSoftwareUpdate.CleanupPreparePathService": {
+    "count": 229,
+    "startTime": "2023-09-06T18:49:58.014Z",
+    "endTime": null
+  },
+  "authd": {
+    "count": 229,
+    "startTime": "2023-09-06T18:49:58.014Z",
+    "endTime": null
+  },
+  "com.apple.geod": {
+    "count": 687,
+    "startTime": "2023-09-06T18:49:58.014Z",
+    "endTime": null
+  },
+  "com.apple.CodeSigningHelper": {
+    "count": 229,
+    "startTime": "2023-09-06T18:49:58.014Z",
+    "endTime": null
+  },
+  "secinitd": {
+    "count": 687,
+    "startTime": "2023-09-06T18:49:58.014Z",
+    "endTime": null
+  },
+  "searchpartyd": {
+    "count": 229,
+    "startTime": "2023-09-06T18:49:58.014Z",
+    "endTime": null
+  },
+  "suhelperd": {
+    "count": 229,
+    "startTime": "2023-09-06T18:49:58.014Z",
+    "endTime": null
+  },
+  "diskmanagementd": {
+    "count": 229,
+    "startTime": "2023-09-06T18:49:58.014Z",
+    "endTime": null
+  },
+  "mobileactivationd": {
+    "count": 229,
+    "startTime": "2023-09-06T18:49:58.014Z",
+    "endTime": null
+  },
+  "biometrickitd": {
+    "count": 229,
+    "startTime": "2023-09-06T18:49:58.014Z",
+    "endTime": null
+  },
+  "Core Audio Driver (MSTeamsAudioDevice.driver)": {
+    "count": 229,
+    "startTime": "2023-09-06T18:49:58.014Z",
+    "endTime": null
+  },
+  "backupd-helper": {
+    "count": 229,
+    "startTime": "2023-09-06T18:49:58.014Z",
+    "endTime": null
+  },
+  "AudioComponentRegistrar": {
+    "count": 458,
+    "startTime": "2023-09-06T18:49:58.014Z",
+    "endTime": null
+  },
+  "UVCAssistant": {
+    "count": 229,
+    "startTime": "2023-09-06T18:49:58.014Z",
+    "endTime": null
+  },
+  "osanalyticshelper": {
+    "count": 229,
+    "startTime": "2023-09-06T18:49:58.014Z",
+    "endTime": null
+  },
+  "audioclocksyncd": {
+    "count": 229,
+    "startTime": "2023-09-06T18:49:58.014Z",
+    "endTime": null
+  },
+  "nginx -g daemon off;": {
+    "count": 229,
+    "startTime": "2023-09-06T18:49:58.014Z",
+    "endTime": null
+  },
+  "taskgated": {
+    "count": 229,
+    "startTime": "2023-09-06T18:49:58.014Z",
+    "endTime": null
+  },
+  "rtcreportingd": {
+    "count": 229,
+    "startTime": "2023-09-06T18:49:58.014Z",
+    "endTime": null
+  },
+  "wifip2pd": {
+    "count": 229,
+    "startTime": "2023-09-06T18:49:58.014Z",
+    "endTime": null
+  },
+  "WiFiCloudAssetsXPCService": {
+    "count": 229,
+    "startTime": "2023-09-06T18:49:58.014Z",
+    "endTime": null
+  },
+  "nginx: worker process": {
+    "count": 229,
+    "startTime": "2023-09-06T18:49:58.014Z",
+    "endTime": null
+  },
+  "wifianalyticsd": {
+    "count": 229,
+    "startTime": "2023-09-06T18:49:58.014Z",
+    "endTime": null
+  },
+  "com.apple.DriverKit-IOUserDockChannelSerial": {
+    "count": 229,
+    "startTime": "2023-09-06T18:49:58.014Z",
+    "endTime": null
+  },
+  "thermald": {
+    "count": 229,
+    "startTime": "2023-09-06T18:49:58.014Z",
+    "endTime": null
+  },
+  "hidd": {
+    "count": 229,
+    "startTime": "2023-09-06T18:49:58.014Z",
+    "endTime": null
+  },
+  "nfcd": {
+    "count": 229,
+    "startTime": "2023-09-06T18:49:58.014Z",
+    "endTime": null
+  },
+  "akd": {
+    "count": 458,
+    "startTime": "2023-09-06T18:49:58.014Z",
+    "endTime": null
+  },
+  "adid": {
+    "count": 229,
+    "startTime": "2023-09-06T18:49:58.014Z",
+    "endTime": null
+  },
+  "countryd": {
+    "count": 229,
+    "startTime": "2023-09-06T18:49:58.014Z",
+    "endTime": null
+  },
+  "captiveagent": {
+    "count": 229,
+    "startTime": "2023-09-06T18:49:58.014Z",
+    "endTime": null
+  },
+  "TouchBarServer": {
+    "count": 229,
+    "startTime": "2023-09-06T18:49:58.014Z",
+    "endTime": null
+  },
+  "colorsync.displayservices": {
+    "count": 229,
+    "startTime": "2023-09-06T18:49:58.014Z",
+    "endTime": null
+  },
+  "colorsyncd": {
+    "count": 229,
+    "startTime": "2023-09-06T18:49:58.014Z",
+    "endTime": null
+  },
+  "appleeventsd": {
+    "count": 229,
+    "startTime": "2023-09-06T18:49:58.014Z",
+    "endTime": null
+  },
+  "sysmond": {
+    "count": 229,
+    "startTime": "2023-09-06T18:49:58.014Z",
+    "endTime": null
+  },
+  "sharedfilelistd": {
+    "count": 458,
+    "startTime": "2023-09-06T18:49:58.014Z",
+    "endTime": null
+  },
+  "symptomsd-diag": {
+    "count": 229,
+    "startTime": "2023-09-06T18:49:58.014Z",
+    "endTime": null
+  },
+  "com.apple.AccountPolicyHelper": {
+    "count": 229,
+    "startTime": "2023-09-06T18:49:58.014Z",
+    "endTime": null
+  },
+  "GSSCred": {
+    "count": 229,
+    "startTime": "2023-09-06T18:49:58.014Z",
+    "endTime": null
+  },
+  "coreauthd": {
+    "count": 458,
+    "startTime": "2023-09-06T18:49:58.014Z",
+    "endTime": null
+  },
+  "securityd_service": {
+    "count": 229,
+    "startTime": "2023-09-06T18:49:58.014Z",
+    "endTime": null
+  },
+  "gamecontrollerd": {
+    "count": 229,
+    "startTime": "2023-09-06T18:49:58.014Z",
+    "endTime": null
+  },
+  "seld": {
+    "count": 229,
+    "startTime": "2023-09-06T18:49:58.014Z",
+    "endTime": null
+  },
+  "knowledge-agent": {
+    "count": 229,
+    "startTime": "2023-09-06T18:49:58.014Z",
+    "endTime": null
+  },
+  "ContinuityCaptureAgent": {
+    "count": 229,
+    "startTime": "2023-09-06T18:49:58.014Z",
+    "endTime": null
+  },
+  "com.apple.sbd": {
+    "count": 229,
+    "startTime": "2023-09-06T18:49:58.014Z",
+    "endTime": null
+  },
+  "WindowManager": {
+    "count": 229,
+    "startTime": "2023-09-06T18:49:58.014Z",
+    "endTime": null
+  },
+  "BackgroundTaskManagementAgent": {
+    "count": 229,
+    "startTime": "2023-09-06T18:49:58.014Z",
+    "endTime": null
+  },
+  "usernoted": {
+    "count": 229,
+    "startTime": "2023-09-06T18:49:58.014Z",
+    "endTime": null
+  },
+  "accountsd": {
+    "count": 229,
+    "startTime": "2023-09-06T18:49:58.014Z",
+    "endTime": null
+  },
+  "talagent": {
+    "count": 229,
+    "startTime": "2023-09-06T18:49:58.014Z",
+    "endTime": null
+  },
+  "Dock": {
+    "count": 229,
+    "startTime": "2023-09-06T18:49:58.014Z",
+    "endTime": null
+  },
+  "ControlCenter": {
+    "count": 229,
+    "startTime": "2023-09-06T18:49:58.014Z",
+    "endTime": null
+  },
+  "Finder": {
+    "count": 229,
+    "startTime": "2023-09-06T18:49:58.014Z",
+    "endTime": null
+  },
+  "donotdisturbd": {
+    "count": 229,
+    "startTime": "2023-09-06T18:49:58.014Z",
+    "endTime": null
+  },
+  "secd": {
+    "count": 229,
+    "startTime": "2023-09-06T18:49:58.014Z",
+    "endTime": null
+  },
+  "pboard": {
+    "count": 229,
+    "startTime": "2023-09-06T18:49:58.014Z",
+    "endTime": null
+  },
+  "NotificationCenter": {
+    "count": 229,
+    "startTime": "2023-09-06T18:49:58.014Z",
+    "endTime": null
+  },
+  "nearbyd": {
+    "count": 229,
+    "startTime": "2023-09-06T18:49:58.014Z",
+    "endTime": null
+  },
+  "TrustedPeersHelper": {
+    "count": 229,
+    "startTime": "2023-09-06T18:49:58.014Z",
+    "endTime": null
+  },
+  "cloudd": {
+    "count": 458,
+    "startTime": "2023-09-06T18:49:58.014Z",
+    "endTime": null
+  },
+  "BiomeAgent": {
+    "count": 229,
+    "startTime": "2023-09-06T18:49:58.014Z",
+    "endTime": null
+  },
+  "WirelessRadioManagerd": {
+    "count": 229,
+    "startTime": "2023-09-06T18:49:58.014Z",
+    "endTime": null
+  },
+  "filecoordinationd": {
+    "count": 229,
+    "startTime": "2023-09-06T18:49:58.014Z",
+    "endTime": null
+  },
+  "QuickLookUIService": {
+    "count": 458,
+    "startTime": "2023-09-06T18:49:58.014Z",
+    "endTime": null
+  },
+  "CommCenter": {
+    "count": 229,
+    "startTime": "2023-09-06T18:49:58.014Z",
+    "endTime": null
+  },
+  "pkd": {
+    "count": 229,
+    "startTime": "2023-09-06T18:49:58.014Z",
+    "endTime": null
+  },
+  "siriactionsd": {
+    "count": 229,
+    "startTime": "2023-09-06T18:49:58.014Z",
+    "endTime": null
+  },
+  "bird": {
+    "count": 229,
+    "startTime": "2023-09-06T18:49:58.014Z",
+    "endTime": null
+  },
+  "dmd": {
+    "count": 229,
+    "startTime": "2023-09-06T18:49:58.014Z",
+    "endTime": null
+  },
+  "AppSSOAgent": {
+    "count": 229,
+    "startTime": "2023-09-06T18:49:58.014Z",
+    "endTime": null
+  },
+  "rapportd": {
+    "count": 229,
+    "startTime": "2023-09-06T18:49:58.014Z",
+    "endTime": null
+  },
+  "CoreLocationAgent": {
+    "count": 229,
+    "startTime": "2023-09-06T18:49:58.014Z",
+    "endTime": null
+  },
+  "sharingd": {
+    "count": 229,
+    "startTime": "2023-09-06T18:49:58.014Z",
+    "endTime": null
+  },
+  "ViewBridgeAuxiliary": {
+    "count": 229,
+    "startTime": "2023-09-06T18:49:58.014Z",
+    "endTime": null
+  },
+  "calaccessd": {
+    "count": 229,
+    "startTime": "2023-09-06T18:49:58.014Z",
+    "endTime": null
+  },
+  "identityservicesd": {
+    "count": 229,
+    "startTime": "2023-09-06T18:49:58.014Z",
+    "endTime": null
+  },
+  "routined": {
+    "count": 229,
+    "startTime": "2023-09-06T18:49:58.014Z",
+    "endTime": null
+  },
+  "ControlStrip": {
+    "count": 229,
+    "startTime": "2023-09-06T18:49:58.014Z",
+    "endTime": null
+  },
+  "lockoutagent": {
+    "count": 229,
+    "startTime": "2023-09-06T18:49:58.014Z",
+    "endTime": null
+  },
+  "ContextService": {
+    "count": 229,
+    "startTime": "2023-09-06T18:49:58.014Z",
+    "endTime": null
+  },
+  "ScreenTimeAgent": {
+    "count": 229,
+    "startTime": "2023-09-06T18:49:58.014Z",
+    "endTime": null
+  },
+  "AppSSODaemon": {
+    "count": 229,
+    "startTime": "2023-09-06T18:49:58.014Z",
+    "endTime": null
+  },
+  "fileproviderd": {
+    "count": 229,
+    "startTime": "2023-09-06T18:49:58.014Z",
+    "endTime": null
+  },
+  "exchangesyncd": {
+    "count": 229,
+    "startTime": "2023-09-06T18:49:58.014Z",
+    "endTime": null
+  },
+  "replayd": {
+    "count": 229,
+    "startTime": "2023-09-06T18:49:58.014Z",
+    "endTime": null
+  },
+  "sociallayerd": {
+    "count": 229,
+    "startTime": "2023-09-06T18:49:58.014Z",
+    "endTime": null
+  },
+  "suggestd": {
+    "count": 229,
+    "startTime": "2023-09-06T18:49:58.014Z",
+    "endTime": null
+  },
+  "callservicesd": {
+    "count": 229,
+    "startTime": "2023-09-06T18:49:58.014Z",
+    "endTime": null
+  },
+  "iconservicesagent": {
+    "count": 229,
+    "startTime": "2023-09-06T18:49:58.014Z",
+    "endTime": null
+  },
+  "com.apple.hiservices-xpcservice": {
+    "count": 229,
+    "startTime": "2023-09-06T18:49:58.014Z",
+    "endTime": null
+  },
+  "automountd": {
+    "count": 229,
+    "startTime": "2023-09-06T18:49:58.014Z",
+    "endTime": null
+  },
+  "AMPDeviceDiscoveryAgent": {
+    "count": 229,
+    "startTime": "2023-09-06T18:49:58.014Z",
+    "endTime": null
+  },
+  "contactsd": {
+    "count": 229,
+    "startTime": "2023-09-06T18:49:58.014Z",
+    "endTime": null
+  },
+  "homed": {
+    "count": 229,
+    "startTime": "2023-09-06T18:49:58.014Z",
+    "endTime": null
+  },
+  "fontd": {
+    "count": 229,
+    "startTime": "2023-09-06T18:49:58.014Z",
+    "endTime": null
+  },
+  "useractivityd": {
+    "count": 229,
+    "startTime": "2023-09-06T18:49:58.014Z",
+    "endTime": null
+  },
+  "mobiletimerd": {
+    "count": 229,
+    "startTime": "2023-09-06T18:49:58.014Z",
+    "endTime": null
+  },
+  "familycircled": {
+    "count": 229,
+    "startTime": "2023-09-06T18:49:58.014Z",
+    "endTime": null
+  },
+  "fontworker": {
+    "count": 229,
+    "startTime": "2023-09-06T18:49:58.014Z",
+    "endTime": null
+  },
+  "CarbonComponentScannerXPC": {
+    "count": 229,
+    "startTime": "2023-09-06T18:49:58.014Z",
+    "endTime": null
+  },
+  "ContextStoreAgent": {
+    "count": 229,
+    "startTime": "2023-09-06T18:49:58.014Z",
+    "endTime": null
+  },
+  "CategoriesService": {
+    "count": 1603,
+    "startTime": "2023-09-06T18:49:58.014Z",
+    "endTime": null
+  },
+  "com.apple.dock.extra": {
+    "count": 229,
+    "startTime": "2023-09-06T18:49:58.014Z",
+    "endTime": null
+  },
+  "fmfd": {
+    "count": 229,
+    "startTime": "2023-09-06T18:49:58.014Z",
+    "endTime": null
+  },
+  "cdpd": {
+    "count": 229,
+    "startTime": "2023-09-06T18:49:58.014Z",
+    "endTime": null
+  },
+  "heard": {
+    "count": 229,
+    "startTime": "2023-09-06T18:49:58.014Z",
+    "endTime": null
+  },
+  "corespeechd": {
+    "count": 229,
+    "startTime": "2023-09-06T18:49:58.014Z",
+    "endTime": null
+  },
+  "axassetsd": {
+    "count": 229,
+    "startTime": "2023-09-06T18:49:58.014Z",
+    "endTime": null
+  },
+  "imklaunchagent": {
+    "count": 229,
+    "startTime": "2023-09-06T18:49:58.014Z",
+    "endTime": null
+  },
+  "redis-server 127.0.0.1:6379": {
+    "count": 229,
+    "startTime": "2023-09-06T18:49:58.014Z",
+    "endTime": null
+  },
+  "Siri": {
+    "count": 229,
+    "startTime": "2023-09-06T18:49:58.014Z",
+    "endTime": null
+  },
+  "sh": {
+    "count": 229,
+    "startTime": "2023-09-06T18:49:58.014Z",
+    "endTime": null
+  },
+  "com.macpaw.CleanMyMac4.Menu": {
+    "count": 229,
+    "startTime": "2023-09-06T18:49:58.014Z",
+    "endTime": null
+  },
+  "icdd": {
+    "count": 229,
+    "startTime": "2023-09-06T18:49:58.014Z",
+    "endTime": null
+  },
+  "watchman": {
+    "count": 229,
+    "startTime": "2023-09-06T18:49:58.014Z",
+    "endTime": null
+  },
+  "askpermissiond": {
+    "count": 229,
+    "startTime": "2023-09-06T18:49:58.014Z",
+    "endTime": null
+  },
+  "postgres": {
+    "count": 229,
+    "startTime": "2023-09-06T18:49:58.014Z",
+    "endTime": null
+  },
+  "AirPlayUIAgent": {
+    "count": 229,
+    "startTime": "2023-09-06T18:49:58.014Z",
+    "endTime": null
+  },
+  "imagent": {
+    "count": 229,
+    "startTime": "2023-09-06T18:49:58.014Z",
+    "endTime": null
+  },
+  "cloudpaird": {
+    "count": 229,
+    "startTime": "2023-09-06T18:49:58.014Z",
+    "endTime": null
+  },
+  "diagnostics_agent": {
+    "count": 229,
+    "startTime": "2023-09-06T18:49:58.014Z",
+    "endTime": null
+  },
+  "bluetoothuserd": {
+    "count": 229,
+    "startTime": "2023-09-06T18:49:58.014Z",
+    "endTime": null
+  },
+  "TextInputMenuAgent": {
+    "count": 229,
+    "startTime": "2023-09-06T18:49:58.014Z",
+    "endTime": null
+  },
+  "amsaccountsd": {
+    "count": 229,
+    "startTime": "2023-09-06T18:49:58.014Z",
+    "endTime": null
+  },
+  "ctkahp": {
+    "count": 458,
+    "startTime": "2023-09-06T18:49:58.014Z",
+    "endTime": null
+  },
+  "com.apple.dock.external.extra.x86_64": {
+    "count": 229,
+    "startTime": "2023-09-06T18:49:58.014Z",
+    "endTime": null
+  },
+  "syncdefaultsd": {
+    "count": 229,
+    "startTime": "2023-09-06T18:49:58.014Z",
+    "endTime": null
+  },
+  "TextInputSwitcher": {
+    "count": 229,
+    "startTime": "2023-09-06T18:49:58.014Z",
+    "endTime": null
+  },
+  "ctkd": {
+    "count": 458,
+    "startTime": "2023-09-06T18:49:58.014Z",
+    "endTime": null
+  },
+  "CoreServicesUIAgent": {
+    "count": 229,
+    "startTime": "2023-09-06T18:49:58.014Z",
+    "endTime": null
+  },
+  "MirrorDisplays": {
+    "count": 229,
+    "startTime": "2023-09-06T18:49:58.014Z",
+    "endTime": null
+  },
+  "transparencyd": {
+    "count": 229,
+    "startTime": "2023-09-06T18:49:58.014Z",
+    "endTime": null
+  },
+  "IMDPersistenceAgent": {
+    "count": 229,
+    "startTime": "2023-09-06T18:49:58.014Z",
+    "endTime": null
+  },
+  "WiFiAgent": {
+    "count": 229,
+    "startTime": "2023-09-06T18:49:58.014Z",
+    "endTime": null
+  },
+  "com.apple.siri.embeddedspeech": {
+    "count": 458,
+    "startTime": "2023-09-06T18:49:58.014Z",
+    "endTime": null
+  },
+  "extensionkitservice": {
+    "count": 528,
+    "startTime": "2023-09-06T18:49:58.014Z",
+    "endTime": null
+  },
+  "CallHistoryPluginHelper": {
+    "count": 229,
+    "startTime": "2023-09-06T18:49:58.014Z",
+    "endTime": null
+  },
+  "HomeWidget": {
+    "count": 229,
+    "startTime": "2023-09-06T18:49:58.014Z",
+    "endTime": null
+  },
+  "triald": {
+    "count": 229,
+    "startTime": "2023-09-06T18:49:58.014Z",
+    "endTime": null
+  },
+  "parentalcontrolsd": {
+    "count": 229,
+    "startTime": "2023-09-06T18:49:58.014Z",
+    "endTime": null
+  },
+  "Keychain Circle Notification": {
+    "count": 229,
+    "startTime": "2023-09-06T18:49:58.014Z",
+    "endTime": null
+  },
+  "ProtectedCloudKeySyncing": {
+    "count": 229,
+    "startTime": "2023-09-06T18:49:58.014Z",
+    "endTime": null
+  },
+  "CloudKeychainProxy": {
+    "count": 229,
+    "startTime": "2023-09-06T18:49:58.014Z",
+    "endTime": null
+  },
+  "networkserviceproxy": {
+    "count": 229,
+    "startTime": "2023-09-06T18:49:58.014Z",
+    "endTime": null
+  },
+  "Spotlight": {
+    "count": 229,
+    "startTime": "2023-09-06T18:49:58.014Z",
+    "endTime": null
+  },
+  "seserviced": {
+    "count": 229,
+    "startTime": "2023-09-06T18:49:58.014Z",
+    "endTime": null
+  },
+  "WeatherWidget": {
+    "count": 229,
+    "startTime": "2023-09-06T18:49:58.015Z",
+    "endTime": null
+  },
+  "WorldClockWidget": {
+    "count": 229,
+    "startTime": "2023-09-06T18:49:58.015Z",
+    "endTime": null
+  },
+  "ScreenTimeWidgetExtension": {
+    "count": 229,
+    "startTime": "2023-09-06T18:49:58.015Z",
+    "endTime": null
+  },
+  "CopyClip": {
+    "count": 229,
+    "startTime": "2023-09-06T18:49:58.015Z",
+    "endTime": null
+  },
+  "ReportCrash": {
+    "count": 229,
+    "startTime": "2023-09-06T18:49:58.015Z",
+    "endTime": null
+  },
+  "WiFiVelocityAgent": {
+    "count": 229,
+    "startTime": "2023-09-06T18:49:58.015Z",
+    "endTime": null
+  },
+  "corespotlightd": {
+    "count": 229,
+    "startTime": "2023-09-06T18:49:58.015Z",
+    "endTime": null
+  },
+  "wifivelocityd": {
+    "count": 229,
+    "startTime": "2023-09-06T18:49:58.015Z",
+    "endTime": null
+  },
+  "PAH_Extension": {
+    "count": 229,
+    "startTime": "2023-09-06T18:49:58.015Z",
+    "endTime": null
+  },
+  "XProtectBehaviorService": {
+    "count": 229,
+    "startTime": "2023-09-06T18:49:58.015Z",
+    "endTime": null
+  },
+  "deleted": {
+    "count": 229,
+    "startTime": "2023-09-06T18:49:58.015Z",
+    "endTime": null
+  },
+  "iCloudNotificationAgent": {
+    "count": 229,
+    "startTime": "2023-09-06T18:49:58.015Z",
+    "endTime": null
+  },
+  "pbs": {
+    "count": 229,
+    "startTime": "2023-09-06T18:49:58.015Z",
+    "endTime": null
+  },
+  "parsecd": {
+    "count": 229,
+    "startTime": "2023-09-06T18:49:58.015Z",
+    "endTime": null
+  },
+  "neagent": {
+    "count": 229,
+    "startTime": "2023-09-06T18:49:58.015Z",
+    "endTime": null
+  },
+  "deleted_helper": {
+    "count": 229,
+    "startTime": "2023-09-06T18:49:58.015Z",
+    "endTime": null
+  },
+  "com.apple.AmbientDisplayAgent": {
+    "count": 229,
+    "startTime": "2023-09-06T18:49:58.015Z",
+    "endTime": null
+  },
+  "com.apple.ColorSyncXPCAgent": {
+    "count": 229,
+    "startTime": "2023-09-06T18:49:58.015Z",
+    "endTime": null
+  },
+  "loginitemregisterd": {
+    "count": 229,
+    "startTime": "2023-09-06T18:49:58.015Z",
+    "endTime": null
+  },
+  "itunescloudd": {
+    "count": 229,
+    "startTime": "2023-09-06T18:49:58.015Z",
+    "endTime": null
+  },
+  "assistantd": {
+    "count": 229,
+    "startTime": "2023-09-06T18:49:58.015Z",
+    "endTime": null
+  },
+  "MTLAssetUpgraderD": {
+    "count": 229,
+    "startTime": "2023-09-06T18:49:58.015Z",
+    "endTime": null
+  },
+  "swcd": {
+    "count": 229,
+    "startTime": "2023-09-06T18:49:58.015Z",
+    "endTime": null
+  },
+  "linkd": {
+    "count": 229,
+    "startTime": "2023-09-06T18:49:58.015Z",
+    "endTime": null
+  },
+  "siriknowledged": {
+    "count": 229,
+    "startTime": "2023-09-06T18:49:58.015Z",
+    "endTime": null
+  },
+  "StatusKitAgent": {
+    "count": 229,
+    "startTime": "2023-09-06T18:49:58.015Z",
+    "endTime": null
+  },
+  "amsengagementd": {
+    "count": 229,
+    "startTime": "2023-09-06T18:49:58.015Z",
+    "endTime": null
+  },
+  "com.apple.FaceTime.FTConversationService": {
+    "count": 229,
+    "startTime": "2023-09-06T18:49:58.015Z",
+    "endTime": null
+  },
+  "commerce": {
+    "count": 229,
+    "startTime": "2023-09-06T18:49:58.015Z",
+    "endTime": null
+  },
+  "mediaremoteagent": {
+    "count": 229,
+    "startTime": "2023-09-06T18:49:58.015Z",
+    "endTime": null
+  },
+  "coresymbolicationd": {
+    "count": 229,
+    "startTime": "2023-09-06T18:49:58.015Z",
+    "endTime": null
+  },
+  "avconferenced": {
+    "count": 229,
+    "startTime": "2023-09-06T18:49:58.015Z",
+    "endTime": null
+  },
+  "mapspushd": {
+    "count": 229,
+    "startTime": "2023-09-06T18:49:58.015Z",
+    "endTime": null
+  },
+  "SafeEjectGPUAgent": {
+    "count": 229,
+    "startTime": "2023-09-06T18:49:58.015Z",
+    "endTime": null
+  },
+  "SafeEjectGPUService": {
+    "count": 229,
+    "startTime": "2023-09-06T18:49:58.015Z",
+    "endTime": null
+  },
+  "weatherd": {
+    "count": 229,
+    "startTime": "2023-09-06T18:49:58.015Z",
+    "endTime": null
+  },
+  "IOUserBluetoothSerialDriver": {
+    "count": 229,
+    "startTime": "2023-09-06T18:49:58.015Z",
+    "endTime": null
+  },
+  "EmojiFunctionRowIM_Extension": {
+    "count": 229,
+    "startTime": "2023-09-06T18:49:58.015Z",
+    "endTime": null
+  },
+  "AssetCacheLocatorService": {
+    "count": 458,
+    "startTime": "2023-09-06T18:49:58.015Z",
+    "endTime": null
+  },
+  "siriinferenced": {
+    "count": 229,
+    "startTime": "2023-09-06T18:49:58.015Z",
+    "endTime": null
+  },
+  "AssetCache": {
+    "count": 229,
+    "startTime": "2023-09-06T18:49:58.015Z",
+    "endTime": null
+  },
+  "followupd": {
+    "count": 229,
+    "startTime": "2023-09-06T18:49:58.015Z",
+    "endTime": null
+  },
+  "AssetCacheTetheratorService": {
+    "count": 229,
+    "startTime": "2023-09-06T18:49:58.015Z",
+    "endTime": null
+  },
+  "ContainerMetadataExtractor": {
+    "count": 229,
+    "startTime": "2023-09-06T18:49:58.015Z",
+    "endTime": null
+  },
+  "mysqld": {
+    "count": 229,
+    "startTime": "2023-09-06T18:49:58.015Z",
+    "endTime": null
+  },
+  "gamecontrolleragentd": {
+    "count": 229,
+    "startTime": "2023-09-06T18:49:58.015Z",
+    "endTime": null
+  },
+  "CMFSyncAgent": {
+    "count": 229,
+    "startTime": "2023-09-06T18:49:58.015Z",
+    "endTime": null
+  },
+  "postgres: checkpointer": {
+    "count": 229,
+    "startTime": "2023-09-06T18:49:58.015Z",
+    "endTime": null
+  },
+  "postgres: background writer": {
+    "count": 229,
+    "startTime": "2023-09-06T18:49:58.015Z",
+    "endTime": null
+  },
+  "postgres: walwriter": {
+    "count": 229,
+    "startTime": "2023-09-06T18:49:58.015Z",
+    "endTime": null
+  },
+  "postgres: autovacuum launcher": {
+    "count": 229,
+    "startTime": "2023-09-06T18:49:58.015Z",
+    "endTime": null
+  },
+  "postgres: stats collector": {
+    "count": 229,
+    "startTime": "2023-09-06T18:49:58.015Z",
+    "endTime": null
+  },
+  "postgres: logical replication launcher": {
+    "count": 229,
+    "startTime": "2023-09-06T18:49:58.015Z",
+    "endTime": null
+  },
+  "aned": {
+    "count": 229,
+    "startTime": "2023-09-06T18:49:58.015Z",
+    "endTime": null
+  },
+  "installd": {
+    "count": 229,
+    "startTime": "2023-09-06T18:49:58.015Z",
+    "endTime": null
+  },
+  "geodMachServiceBridge": {
+    "count": 229,
+    "startTime": "2023-09-06T18:49:58.015Z",
+    "endTime": null
+  },
+  "storedownloadd": {
+    "count": 229,
+    "startTime": "2023-09-06T18:49:58.015Z",
+    "endTime": null
+  },
+  "appstoreagent": {
+    "count": 229,
+    "startTime": "2023-09-06T18:49:58.015Z",
+    "endTime": null
+  },
+  "com.apple.quicklook.ThumbnailsAgent": {
+    "count": 229,
+    "startTime": "2023-09-06T18:49:58.015Z",
+    "endTime": null
+  },
+  "com.apple.audio.ComponentTagHelper": {
+    "count": 229,
+    "startTime": "2023-09-06T18:49:58.015Z",
+    "endTime": null
+  },
+  "UsageTrackingAgent": {
+    "count": 229,
+    "startTime": "2023-09-06T18:49:58.015Z",
+    "endTime": null
+  },
+  "CrashReporterSupportHelper": {
+    "count": 229,
+    "startTime": "2023-09-06T18:49:58.015Z",
+    "endTime": null
+  },
+  "progressd": {
+    "count": 229,
+    "startTime": "2023-09-06T18:49:58.015Z",
+    "endTime": null
+  },
+  "com.macpaw.CleanMyMac4.HealthMonitor": {
+    "count": 229,
+    "startTime": "2023-09-06T18:49:58.015Z",
+    "endTime": null
+  },
+  "UniversalControl": {
+    "count": 229,
+    "startTime": "2023-09-06T18:49:58.015Z",
+    "endTime": null
+  },
+  "com.macpaw.CleanMyMac4.Agent": {
+    "count": 229,
+    "startTime": "2023-09-06T18:49:58.015Z",
+    "endTime": null
+  },
+  "findmydevice-user-agent": {
+    "count": 229,
+    "startTime": "2023-09-06T18:49:58.015Z",
+    "endTime": null
+  },
+  "maild": {
+    "count": 229,
+    "startTime": "2023-09-06T18:49:58.015Z",
+    "endTime": null
+  },
+  "installcoordinationd": {
+    "count": 229,
+    "startTime": "2023-09-06T18:49:58.015Z",
+    "endTime": null
+  },
+  "SoftwareUpdateNotificationManager": {
+    "count": 229,
+    "startTime": "2023-09-06T18:49:58.015Z",
+    "endTime": null
+  },
+  "misagent": {
+    "count": 229,
+    "startTime": "2023-09-06T18:49:58.015Z",
+    "endTime": null
+  },
+  "financed": {
+    "count": 229,
+    "startTime": "2023-09-06T18:49:58.015Z",
+    "endTime": null
+  },
+  "com.apple.siri-distributed-evaluation": {
+    "count": 229,
+    "startTime": "2023-09-06T18:49:58.015Z",
+    "endTime": null
+  },
+  "mlruntimed": {
+    "count": 229,
+    "startTime": "2023-09-06T18:49:58.015Z",
+    "endTime": null
+  },
+  "mdbulkimport": {
+    "count": 458,
+    "startTime": "2023-09-06T18:49:58.015Z",
+    "endTime": null
+  },
+  "ScopedBookmarkAgent": {
+    "count": 229,
+    "startTime": "2023-09-06T18:49:58.015Z",
+    "endTime": null
+  },
+  ".pm2)": {
+    "count": 229,
+    "startTime": "2023-09-06T18:49:58.015Z",
+    "endTime": null
+  },
+  "com.apple.AppStoreDaemon.StorePrivilegedTaskService": {
+    "count": 229,
+    "startTime": "2023-09-06T18:49:58.015Z",
+    "endTime": null
+  },
+  "promotedcontentd": {
+    "count": 229,
+    "startTime": "2023-09-06T18:49:58.015Z",
+    "endTime": null
+  },
+  "Google Chrome": {
+    "count": 229,
+    "startTime": "2023-09-06T18:49:58.015Z",
+    "endTime": null
+  },
+  "fairplayd": {
+    "count": 229,
+    "startTime": "2023-09-06T18:49:58.015Z",
+    "endTime": null
+  },
+  "dataaccessd": {
+    "count": 229,
+    "startTime": "2023-09-06T18:49:58.015Z",
+    "endTime": null
+  },
+  "peopled": {
+    "count": 229,
+    "startTime": "2023-09-06T18:49:58.015Z",
+    "endTime": null
+  },
+  "logd_helper": {
+    "count": 229,
+    "startTime": "2023-09-06T18:49:58.015Z",
+    "endTime": null
+  },
+  "chrome_crashpad_handler": {
+    "count": 523,
+    "startTime": "2023-09-06T18:49:58.015Z",
+    "endTime": null
+  },
+  "CVMServer": {
+    "count": 229,
+    "startTime": "2023-09-06T18:49:58.015Z",
+    "endTime": null
+  },
+  "Google Chrome Helper (GPU)": {
+    "count": 229,
+    "startTime": "2023-09-06T18:49:58.015Z",
+    "endTime": null
+  },
+  "Google Chrome Helper": {
+    "count": 916,
+    "startTime": "2023-09-06T18:49:58.015Z",
+    "endTime": null
+  },
+  "online-authd": {
+    "count": 229,
+    "startTime": "2023-09-06T18:49:58.015Z",
+    "endTime": null
+  },
+  "spindump": {
+    "count": 229,
+    "startTime": "2023-09-06T18:49:58.015Z",
+    "endTime": null
+  },
+  "spindump_agent": {
+    "count": 229,
+    "startTime": "2023-09-06T18:49:58.015Z",
+    "endTime": null
+  },
+  "SafariLaunchAgent": {
+    "count": 229,
+    "startTime": "2023-09-06T18:49:58.015Z",
+    "endTime": null
+  },
+  "Google Chrome Helper (Renderer)": {
+    "count": 6532,
+    "startTime": "2023-09-06T18:49:58.015Z",
+    "endTime": null
+  },
+  "IDSBlastDoorService": {
+    "count": 229,
+    "startTime": "2023-09-06T18:49:58.015Z",
+    "endTime": null
+  },
+  "SafariBookmarksSyncAgent": {
+    "count": 229,
+    "startTime": "2023-09-06T18:49:58.015Z",
+    "endTime": null
+  },
+  "CallHistorySyncHelper": {
+    "count": 229,
+    "startTime": "2023-09-06T18:49:58.015Z",
+    "endTime": null
+  },
+  "com.apple.Safari.History": {
+    "count": 229,
+    "startTime": "2023-09-06T18:49:58.015Z",
+    "endTime": null
+  },
+  "Google Chrome Helper (Alerts)": {
+    "count": 229,
+    "startTime": "2023-09-06T18:49:58.015Z",
+    "endTime": null
+  },
+  "CalendarFocusConfigurationExtension": {
+    "count": 229,
+    "startTime": "2023-09-06T18:49:58.015Z",
+    "endTime": null
+  },
+  "SafariLinkExtension": {
+    "count": 229,
+    "startTime": "2023-09-06T18:49:58.015Z",
+    "endTime": null
+  },
+  "MailShortcutsExtension": {
+    "count": 229,
+    "startTime": "2023-09-06T18:49:58.015Z",
+    "endTime": null
+  },
+  "MessagesActionExtension": {
+    "count": 229,
+    "startTime": "2023-09-06T18:49:58.015Z",
+    "endTime": null
+  },
+  "AppleSpell": {
+    "count": 229,
+    "startTime": "2023-09-06T18:49:58.015Z",
+    "endTime": null
+  },
+  "keyboardservicesd": {
+    "count": 229,
+    "startTime": "2023-09-06T18:49:58.015Z",
+    "endTime": null
+  },
+  "SidecarRelay": {
+    "count": 229,
+    "startTime": "2023-09-06T18:49:58.015Z",
+    "endTime": null
+  },
+  "biomesyncd": {
+    "count": 229,
+    "startTime": "2023-09-06T18:49:58.015Z",
+    "endTime": null
+  },
+  "naturallanguaged": {
+    "count": 229,
+    "startTime": "2023-09-06T18:49:58.015Z",
+    "endTime": null
+  },
+  "contentlinkingd": {
+    "count": 229,
+    "startTime": "2023-09-06T18:49:58.015Z",
+    "endTime": null
+  },
+  "SiriNCService": {
+    "count": 229,
+    "startTime": "2023-09-06T18:49:58.015Z",
+    "endTime": null
+  },
+  "devicecheckd": {
+    "count": 229,
+    "startTime": "2023-09-06T18:49:58.015Z",
+    "endTime": null
+  },
+  "MTLCompilerService": {
+    "count": 1008,
+    "startTime": "2023-09-06T18:49:58.015Z",
+    "endTime": null
+  },
+  "remotemanagementd": {
+    "count": 229,
+    "startTime": "2023-09-06T18:49:58.015Z",
+    "endTime": null
+  },
+  "InteractiveLegacyProfilesSubscriber": {
+    "count": 458,
+    "startTime": "2023-09-06T18:49:58.015Z",
+    "endTime": null
+  },
+  "LegacyProfilesSubscriber": {
+    "count": 458,
+    "startTime": "2023-09-06T18:49:58.015Z",
+    "endTime": null
+  },
+  "PasscodeSettingsSubscriber": {
+    "count": 458,
+    "startTime": "2023-09-06T18:49:58.015Z",
+    "endTime": null
+  },
+  "AccountSubscriber": {
+    "count": 458,
+    "startTime": "2023-09-06T18:49:58.015Z",
+    "endTime": null
+  },
+  "ManagementTestSubscriber": {
+    "count": 458,
+    "startTime": "2023-09-06T18:49:58.015Z",
+    "endTime": null
+  },
+  "installerdiagd": {
+    "count": 229,
+    "startTime": "2023-09-06T18:49:58.015Z",
+    "endTime": null
+  },
+  "adprivacyd": {
+    "count": 229,
+    "startTime": "2023-09-06T18:49:58.015Z",
+    "endTime": null
+  },
+  "assistant_service": {
+    "count": 229,
+    "startTime": "2023-09-06T18:49:58.015Z",
+    "endTime": null
+  },
+  "storeaccountd": {
+    "count": 229,
+    "startTime": "2023-09-06T18:49:58.015Z",
+    "endTime": null
+  },
+  "searchpartyuseragent": {
+    "count": 229,
+    "startTime": "2023-09-06T18:49:58.015Z",
+    "endTime": null
+  },
+  "ndoagent": {
+    "count": 229,
+    "startTime": "2023-09-06T18:49:58.015Z",
+    "endTime": null
+  },
+  "diagnosticextensionsd": {
+    "count": 229,
+    "startTime": "2023-09-06T18:49:58.015Z",
+    "endTime": null
+  },
+  "CoreSpotlightService": {
+    "count": 229,
+    "startTime": "2023-09-06T18:49:58.015Z",
+    "endTime": null
+  },
+  "CalendarWidgetExtension": {
+    "count": 229,
+    "startTime": "2023-09-06T18:49:58.015Z",
+    "endTime": null
+  },
+  "BTLEServerAgent": {
+    "count": 229,
+    "startTime": "2023-09-06T18:49:58.015Z",
+    "endTime": null
+  },
+  "memoryanalyticsd": {
+    "count": 229,
+    "startTime": "2023-09-06T18:49:58.015Z",
+    "endTime": null
+  },
+  "ThumbnailExtension_macOS": {
+    "count": 229,
+    "startTime": "2023-09-06T18:49:58.015Z",
+    "endTime": null
+  },
+  "XprotectService": {
+    "count": 229,
+    "startTime": "2023-09-06T18:49:58.015Z",
+    "endTime": null
+  },
+  "appleaccountd": {
+    "count": 229,
+    "startTime": "2023-09-06T18:49:58.015Z",
+    "endTime": null
+  },
+  "com.apple.audio.SandboxHelper": {
+    "count": 990,
+    "startTime": "2023-09-06T18:49:58.015Z",
+    "endTime": null
+  },
+  "CAReportingService": {
+    "count": 229,
+    "startTime": "2023-09-06T18:49:58.015Z",
+    "endTime": null
+  },
+  "VTEncoderXPCService": {
+    "count": 520,
+    "startTime": "2023-09-06T18:49:58.015Z",
+    "endTime": null
+  },
+  "PowerChime": {
+    "count": 229,
+    "startTime": "2023-09-06T18:49:58.015Z",
+    "endTime": null
+  },
+  "VTDecoderXPCService": {
+    "count": 1000,
+    "startTime": "2023-09-06T18:49:58.015Z",
+    "endTime": null
+  },
+  "EscrowSecurityAlert": {
+    "count": 229,
+    "startTime": "2023-09-06T18:49:58.015Z",
+    "endTime": null
+  },
+  "PasswordBreachAgent": {
+    "count": 229,
+    "startTime": "2023-09-06T18:49:58.015Z",
+    "endTime": null
+  },
+  "USBAgent": {
+    "count": 229,
+    "startTime": "2023-09-06T18:49:58.015Z",
+    "endTime": null
+  },
+  "coreautha": {
+    "count": 229,
+    "startTime": "2023-09-06T18:49:58.015Z",
+    "endTime": null
+  },
+  "netbiosd": {
+    "count": 229,
+    "startTime": "2023-09-06T18:49:58.015Z",
+    "endTime": null
+  },
+  "OSDUIHelper": {
+    "count": 229,
+    "startTime": "2023-09-06T18:49:58.015Z",
+    "endTime": null
+  },
+  "ASPCarryLog": {
+    "count": 229,
+    "startTime": "2023-09-06T18:49:58.015Z",
+    "endTime": null
+  },
+  "backgroundassets.user": {
+    "count": 229,
+    "startTime": "2023-09-06T18:49:58.015Z",
+    "endTime": null
+  },
+  "remindd": {
+    "count": 229,
+    "startTime": "2023-09-06T18:49:58.015Z",
+    "endTime": null
+  },
+  "betaenrollmentd": {
+    "count": 229,
+    "startTime": "2023-09-06T18:49:58.015Z",
+    "endTime": null
+  },
+  "fbahelperd": {
+    "count": 229,
+    "startTime": "2023-09-06T18:49:58.015Z",
+    "endTime": null
+  },
+  "com.apple.AppleUserHIDDrivers": {
+    "count": 229,
+    "startTime": "2023-09-06T18:49:58.015Z",
+    "endTime": null
+  },
+  "PerfPowerServicesExtended": {
+    "count": 229,
+    "startTime": "2023-09-06T18:49:58.015Z",
+    "endTime": null
+  },
+  "intelligenceplatformd": {
+    "count": 229,
+    "startTime": "2023-09-06T18:49:58.015Z",
+    "endTime": null
+  },
+  "ospredictiond": {
+    "count": 229,
+    "startTime": "2023-09-06T18:49:58.015Z",
+    "endTime": null
+  },
+  "griddatad": {
+    "count": 229,
+    "startTime": "2023-09-06T18:49:58.015Z",
+    "endTime": null
+  },
+  "mediaanalysisd": {
+    "count": 229,
+    "startTime": "2023-09-06T18:49:58.015Z",
+    "endTime": null
+  },
+  "photoanalysisd": {
+    "count": 229,
+    "startTime": "2023-09-06T18:49:58.015Z",
+    "endTime": null
+  },
+  "proactiveeventtrackerd": {
+    "count": 229,
+    "startTime": "2023-09-06T18:49:58.015Z",
+    "endTime": null
+  },
+  "tipsd": {
+    "count": 229,
+    "startTime": "2023-09-06T18:49:58.015Z",
+    "endTime": null
+  },
+  "cloudphotod": {
+    "count": 229,
+    "startTime": "2023-09-06T18:49:58.015Z",
+    "endTime": null
+  },
+  "nbagent": {
+    "count": 229,
+    "startTime": "2023-09-06T18:49:58.015Z",
+    "endTime": null
+  },
+  "powerdatad": {
+    "count": 229,
+    "startTime": "2023-09-06T18:49:58.015Z",
+    "endTime": null
+  },
+  "nbstated": {
+    "count": 229,
+    "startTime": "2023-09-06T18:49:58.015Z",
+    "endTime": null
+  },
+  "localizationswitcherd": {
+    "count": 229,
+    "startTime": "2023-09-06T18:49:58.015Z",
+    "endTime": null
+  },
+  "periodic-wrapper": {
+    "count": 458,
+    "startTime": "2023-09-06T18:49:58.015Z",
+    "endTime": null
+  },
+  "tzd": {
+    "count": 229,
+    "startTime": "2023-09-06T18:49:58.015Z",
+    "endTime": null
+  },
+  "com.apple.StreamingUnzipService.privileged": {
+    "count": 229,
+    "startTime": "2023-09-06T18:49:58.015Z",
+    "endTime": null
+  },
+  "RemoteManagementAgent": {
+    "count": 229,
+    "startTime": "2023-09-06T18:49:58.015Z",
+    "endTime": null
+  },
+  "dprivacyd": {
+    "count": 229,
+    "startTime": "2023-09-06T18:49:58.015Z",
+    "endTime": null
+  },
+  "microstackshot": {
+    "count": 229,
+    "startTime": "2023-09-06T18:49:58.015Z",
+    "endTime": null
+  },
+  "sirittsd": {
+    "count": 229,
+    "startTime": "2023-09-06T18:49:58.015Z",
+    "endTime": null
+  },
+  "sysdiagnose": {
+    "count": 229,
+    "startTime": "2023-09-06T18:49:58.015Z",
+    "endTime": null
+  },
+  "mbuseragent": {
+    "count": 229,
+    "startTime": "2023-09-06T18:49:58.015Z",
+    "endTime": null
+  },
+  "proactived": {
+    "count": 229,
+    "startTime": "2023-09-06T18:49:58.015Z",
+    "endTime": null
+  },
+  "media-indexer": {
+    "count": 229,
+    "startTime": "2023-09-06T18:49:58.015Z",
+    "endTime": null
+  },
+  "PodcastContentService": {
+    "count": 229,
+    "startTime": "2023-09-06T18:49:58.015Z",
+    "endTime": null
+  },
+  "com.apple.BKAgentService": {
+    "count": 229,
+    "startTime": "2023-09-06T18:49:58.015Z",
+    "endTime": null
+  },
+  "AMPArtworkAgent": {
+    "count": 229,
+    "startTime": "2023-09-06T18:49:58.015Z",
+    "endTime": null
+  },
+  "DataDetectorsSourceAccess": {
+    "count": 229,
+    "startTime": "2023-09-06T18:49:58.015Z",
+    "endTime": null
+  },
+  "WhatsApp": {
+    "count": 229,
+    "startTime": "2023-09-06T18:49:58.015Z",
+    "endTime": null
+  },
+  "WhatsApp Helper (GPU)": {
+    "count": 229,
+    "startTime": "2023-09-06T18:49:58.015Z",
+    "endTime": null
+  },
+  "WhatsApp Helper": {
+    "count": 458,
+    "startTime": "2023-09-06T18:49:58.015Z",
+    "endTime": null
+  },
+  "WhatsApp Helper (Renderer)": {
+    "count": 458,
+    "startTime": "2023-09-06T18:49:58.015Z",
+    "endTime": null
+  },
+  "QuickLookSatellite": {
+    "count": 229,
+    "startTime": "2023-09-06T18:49:58.015Z",
+    "endTime": null
+  },
+  "Electron": {
+    "count": 458,
+    "startTime": "2023-09-06T18:49:58.015Z",
+    "endTime": null
+  },
+  "Code Helper (GPU)": {
+    "count": 229,
+    "startTime": "2023-09-06T18:49:58.015Z",
+    "endTime": null
+  },
+  "Code Helper": {
+    "count": 916,
+    "startTime": "2023-09-06T18:49:58.015Z",
+    "endTime": null
+  },
+  "com.apple.appkit.xpc.openAndSavePanelService": {
+    "count": 229,
+    "startTime": "2023-09-06T18:49:58.015Z",
+    "endTime": null
+  },
+  "ExternalQuickLookSatellite-x86_64": {
+    "count": 229,
+    "startTime": "2023-09-06T18:49:58.015Z",
+    "endTime": null
+  },
+  "Code Helper (Renderer)": {
+    "count": 229,
+    "startTime": "2023-09-06T18:49:58.015Z",
+    "endTime": null
+  },
+  "Code Helper (Plugin)": {
+    "count": 2061,
+    "startTime": "2023-09-06T18:49:58.015Z",
+    "endTime": null
+  },
+  "zsh": {
+    "count": 916,
+    "startTime": "2023-09-06T18:49:58.015Z",
+    "endTime": null
+  },
+  "gitstatusd-darwin-x86_64": {
+    "count": 229,
+    "startTime": "2023-09-06T18:49:58.015Z",
+    "endTime": null
+  },
+  "mdworker": {
+    "count": 229,
+    "startTime": "2023-09-06T18:49:58.015Z",
+    "endTime": null
+  },
+  "Google Chrome for Testing": {
+    "count": 229,
+    "startTime": "2023-09-06T18:49:58.015Z",
+    "endTime": null
+  },
+  "Google Chrome for Testing Helper (GPU)": {
+    "count": 229,
+    "startTime": "2023-09-06T18:49:58.015Z",
+    "endTime": null
+  },
+  "Google Chrome for Testing Helper (Renderer)": {
+    "count": 229,
+    "startTime": "2023-09-06T18:49:58.015Z",
+    "endTime": null
+  },
+  "com.apple.DictionaryServiceHelper": {
+    "count": 229,
+    "startTime": "2023-09-06T18:49:58.015Z",
+    "endTime": null
+  },
+  "com.apple.accessibility.mediaaccessibilityd": {
+    "count": 229,
+    "startTime": "2023-09-06T18:49:58.015Z",
+    "endTime": null
+  },
+  "mdworker_shared": {
+    "count": 1935,
+    "startTime": "2023-09-06T18:49:58.015Z",
+    "endTime": null
+  },
+  "node": {
+    "count": 687,
+    "startTime": "2023-09-06T18:49:58.015Z",
+    "endTime": null
+  },
+  "Electron Helper (GPU)": {
+    "count": 229,
+    "startTime": "2023-09-06T18:49:58.015Z",
+    "endTime": null
+  },
+  "Electron Helper": {
+    "count": 229,
+    "startTime": "2023-09-06T18:49:58.015Z",
+    "endTime": null
+  },
+  "Electron Helper (Renderer)": {
+    "count": 229,
+    "startTime": "2023-09-06T18:49:58.015Z",
+    "endTime": null
+  },
+  "ps": {
+    "count": 457,
+    "startTime": "2023-09-06T18:49:58.015Z",
+    "endTime": null
+  },
+  "universalAccessAuthWarn": {
+    "count": 229,
+    "startTime": "2023-09-06T18:49:58.015Z",
+    "endTime": null
+  },
+  "com.apple.CloudPhotosConfiguration": {
+    "count": 229,
+    "startTime": "2023-09-06T18:49:58.015Z",
+    "endTime": null
+  },
+  "studentd": {
+    "count": 229,
+    "startTime": "2023-09-06T18:49:58.015Z",
+    "endTime": null
+  },
+  "passd": {
+    "count": 229,
+    "startTime": "2023-09-06T18:49:58.015Z",
+    "endTime": null
+  },
+  "Family": {
+    "count": 229,
+    "startTime": "2023-09-06T18:49:58.015Z",
+    "endTime": null
+  },
+  "writeconfig": {
+    "count": 229,
+    "startTime": "2023-09-06T18:49:58.015Z",
+    "endTime": null
+  },
+  "com.apple.iCloudHelper": {
+    "count": 106,
+    "startTime": "2023-09-06T18:49:58.015Z",
+    "endTime": "2023-09-06T18:50:06.222Z"
+  },
+  "(Google Chrome He)": {
+    "count": 2,
+    "startTime": "2023-09-06T18:50:08.230Z",
+    "endTime": "2023-09-06T18:50:09.232Z"
+  },
+  "Postman": {
+    "count": 66,
+    "startTime": "2023-09-06T18:50:12.247Z",
+    "endTime": "2023-09-06T18:50:47.304Z"
+  },
+  "SiriTTSSynthesizerAU": {
+    "count": 75,
+    "startTime": "2023-09-06T18:50:12.247Z",
+    "endTime": "2023-09-06T18:50:27.272Z"
+  },
+  "Postman Helper (GPU)": {
+    "count": 64,
+    "startTime": "2023-09-06T18:50:13.263Z",
+    "endTime": "2023-09-06T18:50:47.304Z"
+  },
+  "Postman Helper": {
+    "count": 62,
+    "startTime": "2023-09-06T18:50:14.294Z",
+    "endTime": "2023-09-06T18:50:47.304Z"
+  },
+  "Postman Helper (Renderer)": {
+    "count": 62,
+    "startTime": "2023-09-06T18:50:14.294Z",
+    "endTime": "2023-09-06T18:50:47.304Z"
+  },
+  "<defunct>": {
+    "count": 5,
+    "startTime": "2023-09-06T18:50:17.251Z",
+    "endTime": "2023-09-06T18:50:19.271Z"
+  },
+  "(SiriTTSSynthesiz)": {
+    "count": 2,
+    "startTime": "2023-09-06T18:50:27.272Z",
+    "endTime": "2023-09-06T18:50:28.271Z"
+  },
+  "(com.apple.audio.)": {
+    "count": 2,
+    "startTime": "2023-09-06T18:50:27.272Z",
+    "endTime": "2023-09-06T18:50:28.271Z"
+  },
+  "(mdworker_shared)": {
+    "count": 6,
+    "startTime": "2023-09-06T18:51:24.461Z",
+    "endTime": "2023-09-06T18:51:25.443Z"
+  },
+  "Appearance": {
+    "count": 70,
+    "startTime": "2023-09-06T18:52:07.591Z",
+    "endTime": "2023-09-06T18:53:17.797Z"
+  },
+  "AppleIDSettings": {
+    "count": 69,
+    "startTime": "2023-09-06T18:52:08.641Z",
+    "endTime": "2023-09-06T18:53:17.797Z"
+  },
+  "Touch ID & Password": {
+    "count": 69,
+    "startTime": "2023-09-06T18:52:08.641Z",
+    "endTime": "2023-09-06T18:53:17.797Z"
+  },
+  "FollowUpSettingsExtension": {
+    "count": 68,
+    "startTime": "2023-09-06T18:52:09.633Z",
+    "endTime": "2023-09-06T18:53:17.797Z"
+  },
+  "FamilySettings": {
+    "count": 68,
+    "startTime": "2023-09-06T18:52:09.633Z",
+    "endTime": "2023-09-06T18:53:17.797Z"
+  },
+  "PowerPreferences": {
+    "count": 68,
+    "startTime": "2023-09-06T18:52:09.633Z",
+    "endTime": "2023-09-06T18:53:17.797Z"
+  },
+  "HeadphoneSettingsExtension": {
+    "count": 68,
+    "startTime": "2023-09-06T18:52:09.633Z",
+    "endTime": "2023-09-06T18:53:17.797Z"
+  },
+  "TrackpadExtension": {
+    "count": 68,
+    "startTime": "2023-09-06T18:52:09.633Z",
+    "endTime": "2023-09-06T18:53:17.797Z"
+  },
+  "ClassKitSettings": {
+    "count": 68,
+    "startTime": "2023-09-06T18:52:09.633Z",
+    "endTime": "2023-09-06T18:53:17.797Z"
+  },
+  "MouseExtension": {
+    "count": 68,
+    "startTime": "2023-09-06T18:52:09.633Z",
+    "endTime": "2023-09-06T18:53:17.797Z"
+  },
+  "XPCKeychainSandboxCheck": {
+    "count": 30,
+    "startTime": "2023-09-06T18:52:09.633Z",
+    "endTime": "2023-09-06T18:52:39.676Z"
+  },
+  "ClassroomSettings": {
+    "count": 68,
+    "startTime": "2023-09-06T18:52:09.633Z",
+    "endTime": "2023-09-06T18:53:17.797Z"
+  },
+  "WalletSettingsExtension": {
+    "count": 68,
+    "startTime": "2023-09-06T18:52:09.633Z",
+    "endTime": "2023-09-06T18:53:17.797Z"
+  },
+  "GameControllerMacSettings": {
+    "count": 68,
+    "startTime": "2023-09-06T18:52:09.633Z",
+    "endTime": "2023-09-06T18:53:17.797Z"
+  },
+  "CDs & DVDs Settings Extension": {
+    "count": 68,
+    "startTime": "2023-09-06T18:52:09.633Z",
+    "endTime": "2023-09-06T18:53:17.797Z"
+  },
+  "VPN": {
+    "count": 68,
+    "startTime": "2023-09-06T18:52:09.633Z",
+    "endTime": "2023-09-06T18:53:17.797Z"
+  },
+  "com.apple.HasTRB": {
+    "count": 68,
+    "startTime": "2023-09-06T18:52:09.633Z",
+    "endTime": "2023-09-06T18:53:17.797Z"
+  },
+  "ReportMemoryException": {
+    "count": 60,
+    "startTime": "2023-09-06T18:52:10.775Z",
+    "endTime": "2023-09-06T18:53:10.792Z"
+  },
+  "(ps)": {
+    "count": 2,
+    "startTime": "2023-09-06T18:52:10.775Z",
+    "endTime": "2023-09-06T18:52:11.604Z"
+  },
+  "SCHelper": {
+    "count": 30,
+    "startTime": "2023-09-06T18:52:10.775Z",
+    "endTime": "2023-09-06T18:52:40.685Z"
+  },
+  "(postgres)": {
+    "count": 1,
+    "startTime": "2023-09-06T18:52:23.641Z",
+    "endTime": "2023-09-06T18:52:24.635Z"
+  },
+  "GeneralSettings": {
+    "count": 37,
+    "startTime": "2023-09-06T18:52:40.684Z",
+    "endTime": "2023-09-06T18:53:17.797Z"
+  },
+  "AccessibilitySettingsExtension": {
+    "count": 30,
+    "startTime": "2023-09-06T18:52:47.721Z",
+    "endTime": "2023-09-06T18:53:17.797Z"
+  },
+  "AvatarPickerMemojiPicker": {
+    "count": 24,
+    "startTime": "2023-09-06T18:52:53.756Z",
+    "endTime": "2023-09-06T18:53:17.797Z"
+  },
+  "avatarsd": {
+    "count": 52,
+    "startTime": "2023-09-06T18:52:54.755Z",
+    "endTime": null
+  },
+  "Sound": {
+    "count": 5,
+    "startTime": "2023-09-06T18:53:12.814Z",
+    "endTime": "2023-09-06T18:53:17.797Z"
+  },
+  "AddressBookSourceSync": {
+    "count": 15,
+    "startTime": "2023-09-06T18:53:31.836Z",
+    "endTime": null
+  },
+  "ABAssistantService": {
+    "count": 2,
+    "startTime": "2023-09-06T18:53:44.884Z",
+    "endTime": null
+  }
+}
